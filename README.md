@@ -6,8 +6,10 @@
 |:---:|:---:|
 | <img width="300" alt="Early stage prototype" src="https://github.com/user-attachments/assets/9a3e59fd-5633-4293-8993-cb396f539b02" /> | <img width="300" alt="Final stage prototype" src="https://github.com/user-attachments/assets/31977847-79d4-4405-a147-76a4b0744f85" /> |
 
-<img width="464" height="848" alt="image" src="https://github.com/user-attachments/assets/513273bc-d2d1-4856-b47a-2fee0744d17c" />
 
+## Demo
+
+https://github.com/user-attachments/assets/dc696e67-81ff-48d5-a070-1d857ea27dac
 
 ## Problem Statement
 
