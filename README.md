@@ -55,8 +55,8 @@ We designed and built a working prototype **Automated Storage and Retrieval Syst
 - SolidWorks (to open the CAD files)
 
 ## Contributors
-1. Justin <a href = "https://github.com/sntin">(@sntin)</a>
-2. Jason Jonathan <a href = "https://github.com/jejeez">(@jejeez)</a>
+1. Jason Jonathan <a href = "https://github.com/jejeez">(@jejeez)</a>
+2. Justin <a href = "https://github.com/sntin">(@sntin)</a>
 3. Justin Wong
 4. Sheng
 5. Michelle
