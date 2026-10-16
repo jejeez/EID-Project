@@ -7,7 +7,7 @@
 | <img width="300" alt="Early stage prototype" src="https://github.com/user-attachments/assets/9a3e59fd-5633-4293-8993-cb396f539b02" /> | <img width="300" alt="Final stage prototype" src="https://github.com/user-attachments/assets/31977847-79d4-4405-a147-76a4b0744f85" /> |
 
 
-## Demo
+## Demo Video
 (https://github.com/user-attachments/assets/3f073a05-bad0-4aa6-b966-471df8ecf879)
 
 ## Problem Statement
