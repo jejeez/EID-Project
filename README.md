@@ -1,3 +1,11 @@
+## Welcome to our project for Engineering Innovation Design
+
+## Early Stage
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/9a3e59fd-5633-4293-8993-cb396f539b02" />
+
+## Final Stage
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/31977847-79d4-4405-a147-76a4b0744f85" />
+
 
 
 ## Problem Statement
