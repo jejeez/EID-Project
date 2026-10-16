@@ -8,8 +8,7 @@
 
 
 ## Demo
-
-https://github.com/user-attachments/assets/dc696e67-81ff-48d5-a070-1d857ea27dac
+(https://github.com/user-attachments/assets/3f073a05-bad0-4aa6-b966-471df8ecf879)
 
 ## Problem Statement
 
